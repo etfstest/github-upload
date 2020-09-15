@@ -1,4 +1,4 @@
-# Logs
+# this is weird Logs
 logs
 *.log
 npm-debug.log*
